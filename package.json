@@ -1,6 +1,6 @@
 {
   "name": "mysql-co",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mysql2 wrappers for co",
   "main": "index.js",
   "directories": {
