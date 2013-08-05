@@ -13,6 +13,9 @@
     "type": "git",
     "url": "https://github.com/sidorares/mysql-co"
   },
+  "dependencies": {
+    "mysql2": ">=0.8.20"
+  },
   "keywords": [
     "mysql",
     "co",
