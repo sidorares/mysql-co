@@ -1,0 +1,24 @@
+{
+  "name": "mysql-co",
+  "version": "0.0.1",
+  "description": "mysql2 wrappers for co",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidorares/mysql-co"
+  },
+  "keywords": [
+    "mysql",
+    "co",
+    "generators",
+    "coroutines"
+  ],
+  "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "license": "MIT"
+}
