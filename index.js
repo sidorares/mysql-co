@@ -16,6 +16,9 @@ var methods = [
 ];
 
 function wrapConnection(conn) {
+  if (conn._coWrapped)
+    return conn;
+  conn._coWrapped = true;
   methods.forEach(function (name) {
     conn[name] = wrap(conn[name], conn);
   });
