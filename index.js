@@ -41,7 +41,7 @@ module.exports = {
             connection[func](sql, params, function(err, rows, fields, numStatements) {
               if (err)
                 return done(err);
-              connection.end();
+              connection.release();
               return done(null, rows, fields, numStatements);
             });
           });
