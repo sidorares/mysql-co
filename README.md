@@ -1,3 +1,5 @@
+## Deprecated. Starting from 1.0-rc3 node-mysql2 [includes promise api](https://github.com/sidorares/node-mysql2#promise-wrappers) an can be used direcly
+
 # mysql-co
 
 [mysql](https://github.com/sidorares/node-mysql2) wrappers for
