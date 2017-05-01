@@ -1,5 +1,7 @@
 ## Deprecated. Starting from 1.0-rc3 node-mysql2 [includes promise api](https://github.com/sidorares/node-mysql2#promise-wrappers) an can be used direcly
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/mysql-co.svg)](https://greenkeeper.io/)
+
 # mysql-co
 
 [mysql](https://github.com/sidorares/node-mysql2) wrappers for
